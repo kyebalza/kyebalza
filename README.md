@@ -1,4 +1,4 @@
-<div align=center><h1>👋 Hi, I’m @ohbyul </h1></div>
+<div align=center><h1>👋 Hi, I’m kyebalza </h1></div>
 
 <div align=center>
 
@@ -27,7 +27,6 @@
 </a>
 
 </div>
-출처: https://byul91oh.tistory.com/213 [개꼬 [: 개발하는 꼬바리]:티스토리]
 
 
 
