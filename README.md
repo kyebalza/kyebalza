@@ -1,7 +1,7 @@
-<div align="center">
+
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://rpguswns.tistory.com/4)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</div>
+
 ### Hi there 👋
 
 
