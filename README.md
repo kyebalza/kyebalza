@@ -15,7 +15,7 @@
 <a href="https://rpguswns.tistory.com">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 5px; margin-right : 10px;"/>
 </a> 
 <a href="">
     <img 
