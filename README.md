@@ -36,7 +36,7 @@
 ### Hi there 👋
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=test%20file&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Editing%20my Profile&fontSize=90"/>
 
 <!--
 **kyebalza/kyebalza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
