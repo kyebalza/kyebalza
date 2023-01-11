@@ -1,3 +1,51 @@
+<div align=center>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=55A1E7&height=220&section=header&text=BackEnd%20Developer%20Penguin🍀&fontSize=55&fontColor=FFFFFF"/>
+</div>
+
+<div align=center>
+    <h2>🙌Introduction🙌</h2>
+    안녕하세요~ 오늘보다 내일이 더 기대되는 백엔드 개발자 펭귄입니다🐧<br><br>
+    자바와 스프링을 주로 다루며 다양한 기술을 배우고 익히는데 두려워하지 않습니다<br><br>
+    처음 개발자가 되고자 다짐한 그 순간 항상 생각하며 공부해 나가겠습니다<br><br>
+    <h2>✏Blog✏</h2>
+    <a href="https://vuddus526.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;
+    <a href="https://blog.naver.com/vuddus526"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp;&nbsp;
+    <a href="https://portfolio-of-penguin.notion.site/PyeongYeon-Cho-fbbca696bf064f45aa16a408672a45e7"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp;&nbsp;
+    <a href="https://vuddus526.github.io/"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/></a><br><br>
+    <br>
+    <h2>📬Contact📬</h2>
+    <img src="https://img.shields.io/badge/KakaoTalk_ID : vuddus526-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Naver_Email : vuddus526@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Google_Email : vuddus526@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br><br>
+    <br>
+</div>
+<div align=center>
+    <h2>🛠Skill Stack🛠</h2>
+    <img src="https://img.shields.io/badge/JAVA-006272?style=flat-square&logo=JAVA&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Spring-13C100?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/SPRING DATA JPA-569A31?style=flat-square&logo=JSP&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-C71D23?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-13448F?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
+    <br>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/JSON Web Tokens-A100FF?style=flat-square&logo=JSON Web Tokens&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/JSON-FFFFFF?style=flat-square&logo=JSON&logoColor=black"/>&nbsp;
+
+
+<!-- --> 
 <div align=center><h1>👋 Hi, I’m kyebalza </h1></div>
 
 <div align=center>
