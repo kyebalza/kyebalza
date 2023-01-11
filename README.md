@@ -8,15 +8,15 @@
     자바와 스프링을 주로 다루며 다양한 기술을 배우고 익히는데 두려워하지 않습니다<br><br>
     처음 개발자가 되고자 다짐한 그 순간 항상 생각하며 공부해 나가겠습니다<br><br>
     <h2>✏Blog✏</h2>
-    <a href="https://vuddus526.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;
-    <a href="https://blog.naver.com/vuddus526"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp;&nbsp;
-    <a href="https://portfolio-of-penguin.notion.site/PyeongYeon-Cho-fbbca696bf064f45aa16a408672a45e7"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp;&nbsp;
-    <a href="https://vuddus526.github.io/"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/></a><br><br>
+    <a href="https://rpguswns.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;
+    <a href=""><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp;&nbsp;
+    <a href="https://gem-abacus-97e.notion.site/9b74ca7e535f46cc958f8adcf7259908"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp;&nbsp;
+    <a href="https://kyebalza.github.io/"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/></a><br><br>
     <br>
     <h2>📬Contact📬</h2>
-    <img src="https://img.shields.io/badge/KakaoTalk_ID : vuddus526-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Naver_Email : vuddus526@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Google_Email : vuddus526@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br><br>
+    <img src="https://img.shields.io/badge/KakaoTalk_ID : rpguswns-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Naver_Email : rpguswns@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Google_Email : rpguswns@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br><br>
     <br>
 </div>
 <div align=center>
