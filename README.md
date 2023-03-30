@@ -10,8 +10,8 @@
     <h2>✏Blog✏</h2>
     <a href="https://rpguswns.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;&nbsp;
     <!-- <a href=""><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp;&nbsp; -->
-    <a href="https://gem-abacus-97e.notion.site/9b74ca7e535f46cc958f8adcf7259908"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp;&nbsp;
-    <a href="https://kyebalza.github.io/"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/></a><br><br>
+<!--     <a href="https://gem-abacus-97e.notion.site/9b74ca7e535f46cc958f8adcf7259908"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp;&nbsp;
+    <a href="https://kyebalza.github.io/"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/></a><br><br> -->
     <br>
     <h2>📬Contact📬</h2>
     <img src="https://img.shields.io/badge/KakaoTalk_ID : rpguswns-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>&nbsp;&nbsp;
